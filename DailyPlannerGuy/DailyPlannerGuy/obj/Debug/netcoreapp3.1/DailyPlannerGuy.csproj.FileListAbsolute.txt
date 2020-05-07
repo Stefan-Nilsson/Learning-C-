@@ -1,0 +1,13 @@
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\DailyPlannerGuy\DailyPlannerGuy\bin\Debug\netcoreapp3.1\DailyPlannerGuy.exe
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\DailyPlannerGuy\DailyPlannerGuy\bin\Debug\netcoreapp3.1\DailyPlannerGuy.deps.json
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\DailyPlannerGuy\DailyPlannerGuy\bin\Debug\netcoreapp3.1\DailyPlannerGuy.runtimeconfig.json
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\DailyPlannerGuy\DailyPlannerGuy\bin\Debug\netcoreapp3.1\DailyPlannerGuy.runtimeconfig.dev.json
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\DailyPlannerGuy\DailyPlannerGuy\bin\Debug\netcoreapp3.1\DailyPlannerGuy.dll
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\DailyPlannerGuy\DailyPlannerGuy\bin\Debug\netcoreapp3.1\DailyPlannerGuy.pdb
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\DailyPlannerGuy\DailyPlannerGuy\obj\Debug\netcoreapp3.1\DailyPlannerGuy.csprojAssemblyReference.cache
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\DailyPlannerGuy\DailyPlannerGuy\obj\Debug\netcoreapp3.1\DailyPlannerGuy.csproj.CoreCompileInputs.cache
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\DailyPlannerGuy\DailyPlannerGuy\obj\Debug\netcoreapp3.1\DailyPlannerGuy.AssemblyInfoInputs.cache
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\DailyPlannerGuy\DailyPlannerGuy\obj\Debug\netcoreapp3.1\DailyPlannerGuy.AssemblyInfo.cs
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\DailyPlannerGuy\DailyPlannerGuy\obj\Debug\netcoreapp3.1\DailyPlannerGuy.dll
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\DailyPlannerGuy\DailyPlannerGuy\obj\Debug\netcoreapp3.1\DailyPlannerGuy.pdb
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\DailyPlannerGuy\DailyPlannerGuy\obj\Debug\netcoreapp3.1\DailyPlannerGuy.genruntimeconfig.cache
