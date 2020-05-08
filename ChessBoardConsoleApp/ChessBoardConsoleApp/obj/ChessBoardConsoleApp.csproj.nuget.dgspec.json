@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Present\\source\\repos\\ChessBoard\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\ChessBoardConsoleApp.csproj": {}
+    "C:\\Users\\Present\\source\\repos\\Stefan-Nilsson\\Learning-C-\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\ChessBoardConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Present\\source\\repos\\ChessBoard\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\ChessBoardConsoleApp.csproj": {
+    "C:\\Users\\Present\\source\\repos\\Stefan-Nilsson\\Learning-C-\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\ChessBoardConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Present\\source\\repos\\ChessBoard\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\ChessBoardConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Present\\source\\repos\\Stefan-Nilsson\\Learning-C-\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\ChessBoardConsoleApp.csproj",
         "projectName": "ChessBoardConsoleApp",
-        "projectPath": "C:\\Users\\Present\\source\\repos\\ChessBoard\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\ChessBoardConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Present\\source\\repos\\Stefan-Nilsson\\Learning-C-\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\ChessBoardConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Present\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Present\\source\\repos\\ChessBoard\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Present\\source\\repos\\Stefan-Nilsson\\Learning-C-\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

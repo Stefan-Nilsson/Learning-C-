@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Present\\source\\repos\\ChessBoard\\ChessBoardConsoleApp\\ChessBoardModel\\ChessBoardModel.csproj": {}
+    "C:\\Users\\Present\\source\\repos\\Stefan-Nilsson\\Learning-C-\\ChessBoardConsoleApp\\ChessBoardModel\\ChessBoardModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Present\\source\\repos\\ChessBoard\\ChessBoardConsoleApp\\ChessBoardModel\\ChessBoardModel.csproj": {
+    "C:\\Users\\Present\\source\\repos\\Stefan-Nilsson\\Learning-C-\\ChessBoardConsoleApp\\ChessBoardModel\\ChessBoardModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Present\\source\\repos\\ChessBoard\\ChessBoardConsoleApp\\ChessBoardModel\\ChessBoardModel.csproj",
+        "projectUniqueName": "C:\\Users\\Present\\source\\repos\\Stefan-Nilsson\\Learning-C-\\ChessBoardConsoleApp\\ChessBoardModel\\ChessBoardModel.csproj",
         "projectName": "ChessBoardModel",
-        "projectPath": "C:\\Users\\Present\\source\\repos\\ChessBoard\\ChessBoardConsoleApp\\ChessBoardModel\\ChessBoardModel.csproj",
+        "projectPath": "C:\\Users\\Present\\source\\repos\\Stefan-Nilsson\\Learning-C-\\ChessBoardConsoleApp\\ChessBoardModel\\ChessBoardModel.csproj",
         "packagesPath": "C:\\Users\\Present\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Present\\source\\repos\\ChessBoard\\ChessBoardConsoleApp\\ChessBoardModel\\obj\\",
+        "outputPath": "C:\\Users\\Present\\source\\repos\\Stefan-Nilsson\\Learning-C-\\ChessBoardConsoleApp\\ChessBoardModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

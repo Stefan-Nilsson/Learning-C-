@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ChessBoardConsoleApp",
+    "\\ChessBoardConsoleApp\\ChessBoardConsoleApp",
+    "\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\bin",
+    "\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\bin\\Debug"
   ],
+  "SelectedNode": "\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\bin\\Debug",
   "PreviewInSolutionExplorer": false
 }
