@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ChessBoardModel
 {
-    class Board
+    public class Board
     {
         // the size of the board usually 8x8
 
