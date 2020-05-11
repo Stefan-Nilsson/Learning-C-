@@ -6,9 +6,9 @@ using System.Text;
 
 namespace ChessboardTry2
 {
-    class Pawn
+    public class Pawn
     {
-        public Constant char PAWN_SYMBOL = 'X';
+        public const char PAWN_SYMBOL = 'X';
         public const char SPACE = ' ';
         public static char[,] pawns;
 

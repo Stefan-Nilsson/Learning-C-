@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Present\\source\\repos\\ChessboardTry2\\ChessboardTry2\\ChessboardTry2.csproj",
+      "projectUniqueName": "C:\\Users\\Present\\source\\repos\\Stefan-Nilsson\\Learning-C-\\ChessboardTry2\\ChessboardTry2\\ChessboardTry2.csproj",
       "projectName": "ChessboardTry2",
-      "projectPath": "C:\\Users\\Present\\source\\repos\\ChessboardTry2\\ChessboardTry2\\ChessboardTry2.csproj",
+      "projectPath": "C:\\Users\\Present\\source\\repos\\Stefan-Nilsson\\Learning-C-\\ChessboardTry2\\ChessboardTry2\\ChessboardTry2.csproj",
       "packagesPath": "C:\\Users\\Present\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Present\\source\\repos\\ChessboardTry2\\ChessboardTry2\\obj\\",
+      "outputPath": "C:\\Users\\Present\\source\\repos\\Stefan-Nilsson\\Learning-C-\\ChessboardTry2\\ChessboardTry2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
