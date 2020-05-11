@@ -17,7 +17,7 @@ namespace ChessBoardConsoleApp
 
 
             // calculate all legal moves for that piece
-
+            myBoard.MarkNextLegalMoves(currentCell, "Knight");
 
             // print the chess board. Use an X for occupied squire. Use a + for legal move. Use . for empty cell.
             printBoard(myBoard);
@@ -49,18 +49,24 @@ namespace ChessBoardConsoleApp
                 for (int j = 0; j < myBoard.Size; j++)
                 {
                     Cell c = myBoard.theGrid[i, j];
-
-                    if (c.CurrentlyOccupied == true)
+                    if (j < 7)
                     {
-                        Console.Write("x");
-                    }
-                    else if (c.LegalNextMove == true)
-                    {
-                        Console.Write("+");
+                        if (c.CurrentlyOccupied == true)
+                        {
+                            Console.Write("| x ");
+                        }
+                        else if (c.LegalNextMove == true)
+                        {
+                            Console.Write("| + ");
+                        }
+                        else
+                        {
+                            Console.Write("| . ");
+                        }
                     }
                     else
                     {
-                        Console.Write(".");
+                        Console.Write("|");
                     }
                 }
                 Console.WriteLine();

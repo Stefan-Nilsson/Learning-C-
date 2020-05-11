@@ -53,12 +53,7 @@ namespace ChessBoardModel
                         theGrid[currentCell.RowNumber + 1, currentCell.ColumnNumber - 2].LegalNextMove = true;
                         theGrid[currentCell.RowNumber - 1, currentCell.ColumnNumber + 2].LegalNextMove = true;
                         theGrid[currentCell.RowNumber - 1, currentCell.ColumnNumber - 2].LegalNextMove = true;
-
-
-
-
-
-
+                        
 
                         break;
 
@@ -80,9 +75,8 @@ namespace ChessBoardModel
                     case
                         "Pawn":
                         break;
-
-
                 }
+                theGrid[currentCell.RowNumber, currentCell.ColumnNumber].CurrentlyOccupied = true;
             }
         }
     }
