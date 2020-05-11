@@ -71,7 +71,7 @@ namespace ChessBoardConsoleApp
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine("=======================");
+            Console.WriteLine("=============================");
         }
     }
 }
