@@ -32,6 +32,10 @@ namespace ChessboardTry2
                     {
                         pawns[r, c] = PAWN_SYMBOL;
                     }
+                    else
+                    {
+                        pawns[r, c] = SPACE;
+                    }
                     // this is if u want the correct representation of the pawns
                     // if (r == 1 || r == Chessboard.DIMENSION - 2)
                     // {
