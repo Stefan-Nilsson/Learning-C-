@@ -6,7 +6,8 @@ namespace ChessboardTry2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Chessboard chessBoard = new Chessboard();
+            chessBoard.displayChessBoard();
         }
     }
 }
