@@ -28,8 +28,8 @@ namespace ChessboardTry2
 
         public void displayChessBoard()
         {
-            // while(!move.Exit)
-            // {
+           while(!move.Exit)
+            {
             Console.Clear();
             // header for the columns: x axis header
             Console.WriteLine("    0   1   2   3   4   5   6   7");
@@ -70,8 +70,8 @@ namespace ChessboardTry2
             }
             // the + at the end 
             Console.Write("+\n\n");
-
-            //}
+                move.MakeMove();
+           }
         }
     }
 }
