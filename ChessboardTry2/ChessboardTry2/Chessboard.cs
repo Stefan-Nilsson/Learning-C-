@@ -9,7 +9,7 @@ namespace ChessboardTry2
         private string[,] chessBoard;
         public const int DIMENSION = 8; // original 8x8 board
 
-        private Pawn pawn;
+        // pawn needs no initialize because Move inherits Pawn hence it also gets initialized
         private Move move;
         
         public Chessboard()

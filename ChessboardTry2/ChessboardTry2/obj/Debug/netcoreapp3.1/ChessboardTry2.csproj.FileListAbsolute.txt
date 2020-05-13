@@ -1,0 +1,13 @@
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ChessboardTry2\ChessboardTry2\bin\Debug\netcoreapp3.1\ChessboardTry2.exe
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ChessboardTry2\ChessboardTry2\bin\Debug\netcoreapp3.1\ChessboardTry2.deps.json
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ChessboardTry2\ChessboardTry2\bin\Debug\netcoreapp3.1\ChessboardTry2.runtimeconfig.json
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ChessboardTry2\ChessboardTry2\bin\Debug\netcoreapp3.1\ChessboardTry2.runtimeconfig.dev.json
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ChessboardTry2\ChessboardTry2\bin\Debug\netcoreapp3.1\ChessboardTry2.dll
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ChessboardTry2\ChessboardTry2\bin\Debug\netcoreapp3.1\ChessboardTry2.pdb
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ChessboardTry2\ChessboardTry2\obj\Debug\netcoreapp3.1\ChessboardTry2.csprojAssemblyReference.cache
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ChessboardTry2\ChessboardTry2\obj\Debug\netcoreapp3.1\ChessboardTry2.csproj.CoreCompileInputs.cache
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ChessboardTry2\ChessboardTry2\obj\Debug\netcoreapp3.1\ChessboardTry2.AssemblyInfoInputs.cache
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ChessboardTry2\ChessboardTry2\obj\Debug\netcoreapp3.1\ChessboardTry2.AssemblyInfo.cs
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ChessboardTry2\ChessboardTry2\obj\Debug\netcoreapp3.1\ChessboardTry2.dll
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ChessboardTry2\ChessboardTry2\obj\Debug\netcoreapp3.1\ChessboardTry2.pdb
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ChessboardTry2\ChessboardTry2\obj\Debug\netcoreapp3.1\ChessboardTry2.genruntimeconfig.cache
