@@ -1,0 +1,12 @@
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ExcerciseRps\ExcerciseRps\bin\Debug\netcoreapp3.1\ExcerciseRps.exe
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ExcerciseRps\ExcerciseRps\bin\Debug\netcoreapp3.1\ExcerciseRps.deps.json
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ExcerciseRps\ExcerciseRps\bin\Debug\netcoreapp3.1\ExcerciseRps.runtimeconfig.json
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ExcerciseRps\ExcerciseRps\bin\Debug\netcoreapp3.1\ExcerciseRps.runtimeconfig.dev.json
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ExcerciseRps\ExcerciseRps\bin\Debug\netcoreapp3.1\ExcerciseRps.dll
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ExcerciseRps\ExcerciseRps\bin\Debug\netcoreapp3.1\ExcerciseRps.pdb
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ExcerciseRps\ExcerciseRps\obj\Debug\netcoreapp3.1\ExcerciseRps.csproj.CoreCompileInputs.cache
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ExcerciseRps\ExcerciseRps\obj\Debug\netcoreapp3.1\ExcerciseRps.AssemblyInfoInputs.cache
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ExcerciseRps\ExcerciseRps\obj\Debug\netcoreapp3.1\ExcerciseRps.AssemblyInfo.cs
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ExcerciseRps\ExcerciseRps\obj\Debug\netcoreapp3.1\ExcerciseRps.dll
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ExcerciseRps\ExcerciseRps\obj\Debug\netcoreapp3.1\ExcerciseRps.pdb
+C:\Users\Present\source\repos\Stefan-Nilsson\Learning-C-\ExcerciseRps\ExcerciseRps\obj\Debug\netcoreapp3.1\ExcerciseRps.genruntimeconfig.cache
