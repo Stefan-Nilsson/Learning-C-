@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Dynamic;
 
 namespace Practice
 {
@@ -6,14 +7,13 @@ namespace Practice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("please enter an amount to fibbonaccify");
-            int lengthInt;
+            Console.WriteLine("Please enter amount of times I should fibbonaccify");
             string length;
+            int lengthInt;
+            int a = 0, b = 1, c;
             length = Console.ReadLine();
             lengthInt = int.Parse(length);
-            int a = 0, b = 1, c;
             Console.WriteLine("{0} {1}", a, b);
-            
             for (int i = 0; i <= lengthInt; i++)
             {
                 c = a + b;
