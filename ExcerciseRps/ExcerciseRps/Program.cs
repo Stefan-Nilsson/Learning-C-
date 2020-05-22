@@ -9,6 +9,7 @@ namespace ExcerciseRps
         {
             while (again)
             {
+                Console.Clear();
                 Console.WriteLine("Pick rock, paper or scizzors!");
                 string userInput;
                 Random rnd = new Random();
@@ -41,6 +42,7 @@ namespace ExcerciseRps
                         break;
                 }
                 Console.WriteLine("if you want to quit press q otherwise press enter");
+                
                      ConsoleKeyInfo cki = Console.ReadKey();
                 if (cki.Key == ConsoleKey.Q)
                     again = false;
