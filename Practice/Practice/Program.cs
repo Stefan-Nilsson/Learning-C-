@@ -6,10 +6,20 @@ namespace Practice
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 7; i++)
+            Console.WriteLine("please enter an amount to fibbonaccify");
+            int lengthInt;
+            string length;
+            length = Console.ReadLine();
+            lengthInt = int.Parse(length);
+            int a = 0, b = 1, c;
+            Console.WriteLine("{0} {1}", a, b);
+            
+            for (int i = 0; i <= lengthInt; i++)
             {
-                int a = 3;
-                Console.WriteLine(a *= a += a);
+                c = a + b;
+                Console.WriteLine("{0}", c);
+                a = b;
+                b = c;
             }
         }
     }
