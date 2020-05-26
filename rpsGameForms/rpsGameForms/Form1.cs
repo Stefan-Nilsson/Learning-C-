@@ -67,6 +67,21 @@ namespace rpsGameForms
 
         private void ButtonReset_Click(object sender, EventArgs e)
         {
+            playerScore = 0;
+            cpuScore = 0;
+            rounds = 3;
+
+
+            txtScore.Text = "Player: " + playerScore + " - " + cpuScore;
+
+            playerChoice = "none";
+
+            TimerCountDownEvent.Enabled = true;
+
+            picPlayer.Image = Properties.Resources.qq;
+            picCpu.Image = Properties.Resources.qq;
+
+            gameOver = false;
 
         }
 
