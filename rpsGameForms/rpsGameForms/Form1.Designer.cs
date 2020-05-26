@@ -36,7 +36,7 @@
             this.picCpu = new System.Windows.Forms.PictureBox();
             this.LabelPlayer = new System.Windows.Forms.Label();
             this.LabelCPU = new System.Windows.Forms.Label();
-            this.labelScore = new System.Windows.Forms.Label();
+            this.txtScore = new System.Windows.Forms.Label();
             this.txtCountDown = new System.Windows.Forms.Label();
             this.txtRounds = new System.Windows.Forms.Label();
             this.ButtonReset = new System.Windows.Forms.Button();
@@ -113,14 +113,14 @@
             this.LabelCPU.TabIndex = 6;
             this.LabelCPU.Text = "CPU";
             // 
-            // labelScore
+            // txtScore
             // 
-            this.labelScore.AutoSize = true;
-            this.labelScore.Location = new System.Drawing.Point(642, 121);
-            this.labelScore.Name = "labelScore";
-            this.labelScore.Size = new System.Drawing.Size(91, 13);
-            this.labelScore.TabIndex = 7;
-            this.labelScore.Text = "Player: 0 - CPU: 0";
+            this.txtScore.AutoSize = true;
+            this.txtScore.Location = new System.Drawing.Point(642, 121);
+            this.txtScore.Name = "txtScore";
+            this.txtScore.Size = new System.Drawing.Size(91, 13);
+            this.txtScore.TabIndex = 7;
+            this.txtScore.Text = "Player: 0 - CPU: 0";
             // 
             // txtCountDown
             // 
@@ -163,7 +163,7 @@
             this.Controls.Add(this.ButtonReset);
             this.Controls.Add(this.txtRounds);
             this.Controls.Add(this.txtCountDown);
-            this.Controls.Add(this.labelScore);
+            this.Controls.Add(this.txtScore);
             this.Controls.Add(this.LabelCPU);
             this.Controls.Add(this.LabelPlayer);
             this.Controls.Add(this.picCpu);
@@ -190,7 +190,7 @@
         private System.Windows.Forms.PictureBox picCpu;
         private System.Windows.Forms.Label LabelPlayer;
         private System.Windows.Forms.Label LabelCPU;
-        private System.Windows.Forms.Label labelScore;
+        private System.Windows.Forms.Label txtScore;
         private System.Windows.Forms.Label txtCountDown;
         private System.Windows.Forms.Label txtRounds;
         private System.Windows.Forms.Button ButtonReset;

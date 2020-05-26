@@ -106,8 +106,26 @@ namespace rpsGameForms
                         picCpu.Image = Properties.Resources.paper;
                         break;
                 }
-               
+                if (rounds > 0)
+                {
+                    checkGame();
+                }
+                else
+                {
+                    if(playerScore > cpuScore)
+                    {
+                        MessageBox.Show("Player won the game");
+                    }
+                    else
+                    {
+                        MessageBox.Show("CPU won the game");
+                    }
+
+                    gameOver = true;
+                }
+
             }
+            
         }
         private void checkGame()
         {
@@ -183,6 +201,30 @@ namespace rpsGameForms
             {
                 MessageBox.Show("Make a choice");
             }
+
+            startNextRound();
+
+        }
+
+        private void startNextRound()
+        {
+            // if gameOver = true then it will not run anything underneath the return line.
+           
+            if(gameOver == true)
+            {
+                return;
+            }
+
+            txtScore.Text = "Player: " + playerScore + " - " + cpuScore;
+
+            playerChoice = "none";
+
+            TimerCountDownEvent.Enabled = true;
+
+            picPlayer.Image = Properties.Resources.qq;
+            picCpu.Image = Properties.Resources.qq;
+
+
 
         }
     }
